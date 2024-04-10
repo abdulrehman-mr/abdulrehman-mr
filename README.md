@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdulRehman
 - 👀 I’m interested in php sql
-- 🌱 I’m currently learning php sql
+- 🌱 I’m currently learning php sql nextjs
 - 📫 How to reach me arehman@duck.com
 
 <!---
